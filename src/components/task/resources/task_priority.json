@@ -1,0 +1,16 @@
+{
+    "priorities": [
+        {
+            "name": "Alta",
+            "value": "1"
+        },
+        {
+            "name": "Media",
+            "value": "2"
+        },
+        {
+            "name": "Baja",
+            "value": "3"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "title": "Task 1",
+            "responsible": "Peter",
+            "description": "description task1",
+            "priority": "3"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Andres",
+            "description": "description task2",
+            "priority": "2"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Daniel",
+            "description": "description task3",
+            "priority": "1"
+        }
+    ]
+}
